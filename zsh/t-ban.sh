@@ -2,7 +2,7 @@
 #
 #
 # Termux Banner
-# Banner by Sutariya Parixit (8h4i)
+# Banner by Tech Tushar (Tech) 
 # _____Do Not Copy Or Modify_____
 #
 #
@@ -14,7 +14,7 @@ red='\e[1;31m'
 yellow='\e[1;33m'
 echo -e $lightgreen "\e[1m                Security Help For Ethical Hackers... "
 echo " "
-echo -e $yellow "\e[1m                         -Sutariya Parixit "
+echo -e $yellow "\e[1m                         -Tech Tushar "
 echo " "
 echo " "
 echo " "
